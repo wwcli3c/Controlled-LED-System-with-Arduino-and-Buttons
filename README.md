@@ -23,10 +23,12 @@ Components:
 
 
 ```Code:
+//Buttons
 const int buttonPin1 = 2;  
 const int buttonPin2 = 3;
 const int buttonPin3 = 4; 
 
+//LEDs
 const int ledPin1 = 5;
 const int ledPin2 = 6;
 const int ledPin3 = 7;
